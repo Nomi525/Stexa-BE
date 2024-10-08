@@ -1,2 +1,1 @@
-# Stexa-BE
-Stexa-BE
+# Stexa-Backend
